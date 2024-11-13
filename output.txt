@@ -1,0 +1,16 @@
+E:\Projects\ai-refactor
+├── node_modules
+├── output.txt
+├── package.json
+├── pnpm-lock.yaml
+└── src
+   ├── app.js
+   ├── controllers
+   |  └── user.controller.js
+   ├── models
+   |  └── user.model.js
+   └── routes
+      └── user.routes.js
+
+directory: 5 file: 7 symboliclink: 2
+
